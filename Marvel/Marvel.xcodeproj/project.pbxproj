@@ -13,6 +13,7 @@
 		F2A31F6F2AC8A2F100A9EDED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A31F6D2AC8A2F100A9EDED /* Main.storyboard */; };
 		F2A31F712AC8A2F300A9EDED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2A31F702AC8A2F300A9EDED /* Assets.xcassets */; };
 		F2A31F742AC8A2F300A9EDED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2A31F722AC8A2F300A9EDED /* LaunchScreen.storyboard */; };
+		F2F68A5D2AC8A57F0057AF6D /* marvel.keys.rtf in Resources */ = {isa = PBXBuildFile; fileRef = F2F68A5C2AC8A57F0057AF6D /* marvel.keys.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2A31F702AC8A2F300A9EDED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2A31F732AC8A2F300A9EDED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2A31F752AC8A2F300A9EDED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2F68A5C2AC8A57F0057AF6D /* marvel.keys.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = marvel.keys.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F2A31F672AC8A2F100A9EDED /* AppDelegate.swift */,
 				F2A31F692AC8A2F100A9EDED /* SceneDelegate.swift */,
 				F2A31F6B2AC8A2F100A9EDED /* ViewController.swift */,
+				F2F68A5C2AC8A57F0057AF6D /* marvel.keys.rtf */,
 				F2A31F6D2AC8A2F100A9EDED /* Main.storyboard */,
 				F2A31F702AC8A2F300A9EDED /* Assets.xcassets */,
 				F2A31F722AC8A2F300A9EDED /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				F2A31F742AC8A2F300A9EDED /* LaunchScreen.storyboard in Resources */,
 				F2A31F712AC8A2F300A9EDED /* Assets.xcassets in Resources */,
+				F2F68A5D2AC8A57F0057AF6D /* marvel.keys.rtf in Resources */,
 				F2A31F6F2AC8A2F100A9EDED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
